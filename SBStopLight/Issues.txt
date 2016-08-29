@@ -1,0 +1,7 @@
+Known bugs in StopLight
+
+2015.07.18
+
+--- sequence in program should go y,r,g. if it starts listening for sensor trip at end of yellow it will catch for green
+
+2015.08.28
